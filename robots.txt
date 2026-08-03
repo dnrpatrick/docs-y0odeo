@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-tsjabu.agen138hkd.lat/sitemap.xml
